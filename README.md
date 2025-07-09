@@ -29,7 +29,7 @@ You can install the required libraries with:
 
 ```bash
 pip install torch scikit-learn numpy pandas
-
+```
 ## Pipeline Overview
 
 - **Data loading and preprocessing**
