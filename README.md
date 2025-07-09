@@ -51,7 +51,7 @@ The model achieves a test MAPE of approximately 6% after normalizing the targets
 
 ## Author
 
-Created by [Your Name or GitHub Nickname].
+Created by [ezNobson].
 
 The concept of the neural network, as well as the approach to data normalization and preparation, was developed as part of a project coordinated by Professor Andrzej Bielecki and his student.
 
